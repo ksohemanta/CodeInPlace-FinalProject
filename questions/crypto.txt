@@ -1,0 +1,10 @@
+Which algorithm is symmetric?|A. RSA|B. ECC|C. AES|D. SHA-256|C
+What does RSA stand for?|A. Random Secure Algorithm|B. Rivest–Shamir–Adleman|C. Remote Secure Access|D. Recursive Secure Algorithm|B
+What is hashing used for?|A. Encrypting messages|B. Data integrity verification|C. Compressing files|D. Storing passwords in plain text|B
+Which of these is a cryptographic hash function?|A. AES|B. MD5|C. RSA|D. ECC|B
+What is the key length of AES-256?|A. 128 bits|B. 256 bits|C. 512 bits|D. 1024 bits|B
+What is a digital signature?|A. A handwritten signature|B. A cryptographic method to verify origin|C. A password|D. An encryption algorithm|B
+Which cryptographic protocol is used for securing email?|A. SSL|B. TLS|C. PGP|D. HTTP|C
+What is the difference between symmetric and asymmetric encryption?|A. Symmetric uses one key, asymmetric uses two|B. Symmetric is slower|C. Asymmetric uses one key|D. There is no difference|A
+What does SSL stand for?|A. Secure Socket Layer|B. Secure System Login|C. Safe Software License|D. Simple Secure Layer|A
+What type of cipher is AES?|A. Stream cipher|B. Block cipher|C. Hash function|D. Public key cipher|B

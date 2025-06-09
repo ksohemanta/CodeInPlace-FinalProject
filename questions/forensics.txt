@@ -1,0 +1,8 @@
+What does digital forensics involve?|A. Coding|B. Malware making|C. Evidence recovery|D. Data deletion|C
+Which format is commonly used for disk images?|A. .txt|B. .iso|C. .img|D. .log|C
+What is chain of custody?|A. The order of files on disk|B. The documentation of evidence handling|C. A type of encryption|D. A malware technique|B
+Which tool is commonly used for forensic file recovery?|A. Wireshark|B. Autopsy|C. Metasploit|D. Nmap|B
+What is steganography?|A. Hiding data inside other data|B. Encrypting files|C. Deleting evidence|D. Network scanning|A
+Which of these is NOT a forensic artifact?|A. Browser history|B. Memory dump|C. Firewall settings|D. Video game saves|D
+What does volatile memory refer to in forensics?|A. Hard disk|B. RAM|C. Flash drives|D. Cloud storage|B
+What is the first step in digital forensic investigation?|A. Data analysis|B. Evidence collection|C. Report writing|D. File deletion|B

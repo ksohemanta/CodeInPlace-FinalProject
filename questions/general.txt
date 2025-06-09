@@ -1,0 +1,10 @@
+What does CIA stand for in cybersecurity?|A. Central Intelligence Agency|B. Confidentiality, Integrity, Availability|C. Cyber Intelligence Algorithm|D. Certified Info Analyst|B
+What is phishing?|A. Network scan|B. System hack|C. Fraudulent email|D. Data compression|C
+Which one is a strong password?|A. 123456|B. Password|C. P@ssw0rd!23|D. qwerty|C
+What is a firewall used for?|A. Encrypt data|B. Prevent unauthorized access|C. Scan for viruses|D. Backup files|B
+Which is an example of multi-factor authentication?|A. Password only|B. Password + fingerprint|C. Username only|D. Security question only|B
+What is social engineering?|A. Hacking software|B. Manipulating people to reveal info|C. Encrypting messages|D. Using firewalls|B
+What does VPN stand for?|A. Virtual Private Network|B. Verified Public Network|C. Virtual Protected Node|D. Very Private Network|A
+Which protocol is used for secure web browsing?|A. HTTP|B. FTP|C. HTTPS|D. SMTP|C
+What is ransomware?|A. Software to speed up your PC|B. Malware that locks your files for ransom|C. A programming language|D. A type of firewall|B
+What is the main purpose of antivirus software?|A. Prevent malware infections|B. Speed up your computer|C. Manage passwords|D. Encrypt data|A

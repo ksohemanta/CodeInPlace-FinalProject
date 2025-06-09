@@ -1,0 +1,8 @@
+Which device is used to filter traffic between networks?|A. Router|B. Firewall|C. Switch|D. Hub|B
+What does a VPN do?|A. Filters emails|B. Creates a secure network tunnel|C. Detects viruses|D. Provides internet access|B
+What is a DDoS attack?|A. Virus infection|B. Distributed Denial of Service|C. Data encryption|D. Secure connection|B
+Which protocol is used for sending email?|A. FTP|B. SMTP|C. HTTP|D. SSH|B
+What does SSH stand for?|A. Secure Shell|B. Secure Server Host|C. Simple Secure HTTP|D. Secure Socket Hub|A
+What is port 80 commonly used for?|A. Email|B. Web traffic (HTTP)|C. File transfer|D. Remote desktop|B
+Which tool is used for network packet analysis?|A. Metasploit|B. Nmap|C. Wireshark|D. Nessus|C
+What is the purpose of NAT (Network Address Translation)?|A. Assign IP addresses|B. Hide internal IPs behind a public IP|C. Encrypt data|D. Backup data|B
